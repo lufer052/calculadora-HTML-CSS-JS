@@ -1,0 +1,88 @@
+.main-container{
+    border: 2px solid #19524c;
+    height: 500px;
+    width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #83c5be;
+    border-radius: 20px;
+}
+
+.main-container-pantalla {
+    border: 2px solid black;
+    height: 170px;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: #edf6f9;
+}
+
+.main-container-content-buttons{
+    border: 2px solid black;
+    margin-top: 20px;
+    height: 220px;
+    padding: 30px 50px 50px 50px;
+    background-color: #06919e;
+    border-radius: 20px;
+}   
+
+.main-container-buttons{
+    border: 2px solid black;
+    position: relative;
+    top: 15px;
+    width: 40px;
+    height: 40px;
+    margin-bottom: 20px;
+}
+
+.main-container-buttons-2 {
+    border: 2px solid black;
+    position: relative;
+    bottom: 178px;
+    left: 50px;
+    width: 40px;
+    height: 40px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+
+.main-container-buttons-3 {
+    border: 2px solid black;
+    position: relative;
+    bottom: 371px;
+    left: 100px;
+    width: 40px;
+    height: 40px;
+    margin-left: 60px;
+    margin-bottom: 20px;
+}
+
+.main-container-buttons-4 {
+    border: 2px solid black;
+    position: relative;
+    bottom: 563px;
+    left: 180px;
+    width: 40px;
+    height: 40px;
+    margin-left: 60px;
+    margin-bottom: 20px;
+}
+
+.main-container-buttons-5 {
+    border: 2px solid black;
+    position: relative;
+    bottom: 563px;
+    left: 100px;
+    width: 130px;
+    height: 40px;
+    margin-left: 60px;
+    margin-bottom: 20px;
+}
+
+.main-container-buttons-6 {
+    border: 2px solid black;
+    position: relative;
+    bottom: 625px;
+    width: 110px;
+    height: 40px;
+    margin-bottom: 20px;
+}
